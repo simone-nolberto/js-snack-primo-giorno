@@ -40,7 +40,7 @@ console.log(userName);
 
 let temperature = 22.5; //number
 
-temperature = 27.5; //number
+temperature = (22.5+5); //number
 
 console.log(temperature);
 
@@ -49,4 +49,13 @@ console.log(temperature);
 
 /*
 3.14 è una costante, pertanto è inserito in una stringa; 100 invece rimane un numero semplice, slegato dalle caratteristiche delle stringhe;
+*/
+
+// esercizio 6
+
+console.info ("il mio messaggio")
+
+/*
+Direi che console.info serve piuttosto per lasciare un testo ad eventuali mantenitori, magari delle indicazioni; console.log invece è prettamente legato alle variabili che abbiamo inserito. 
+
 */
