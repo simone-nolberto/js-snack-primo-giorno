@@ -45,3 +45,8 @@ temperature = 27.5; //number
 console.log(temperature);
 
 
+// esercizio 5
+
+/*
+3.14 è una costante, pertanto è inserito in una stringa; 100 invece rimane un numero semplice, slegato dalle caratteristiche delle stringhe;
+*/
