@@ -25,3 +25,13 @@ let radius = 8; //number
 let circle = (radius * 2 * PI) //operation
 
 console.log(circle);
+
+// esercizio 3
+
+let userName = "Carlo"; //string
+
+console.log(userName);
+
+userName = 'Marco' //string
+
+console.log(userName);
