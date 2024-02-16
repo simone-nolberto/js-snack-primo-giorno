@@ -6,3 +6,6 @@ console.log(number);
 
 // esercizio 2
 
+const PI = "3.14" //number
+
+console.log(PI);
