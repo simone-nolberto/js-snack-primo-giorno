@@ -35,3 +35,13 @@ console.log(userName);
 userName = 'Marco' //string
 
 console.log(userName);
+
+// esercizio 4
+
+let temperature = 22.5; //number
+
+temperature = 27.5; //number
+
+console.log(temperature);
+
+
